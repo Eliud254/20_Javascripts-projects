@@ -1,0 +1,34 @@
+* {
+  background-color: rgb(7, 2, 29);
+}
+
+body {
+  padding: 5rem;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 >span {
+  color: blueviolet;
+}
+
+h1:hover {
+  color: blueviolet;
+}
+
+h1 {
+  color: white;
+}
+
+h1 >span:hover {
+  color: white;
+}
+button {
+  color: black;
+  background-color: rgb(44, 129, 240);
+  border-radius: 0%;
+  cursor: pointer;
+}
+
+button:hover {
+  color: brown;
+  background-color:white;
+}
